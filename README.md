@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning B.Tech in Mechanical Engineering
 - 💞️ I’m looking to collaborate on innovative projects that includes complex designs. 
 - 📫 How to reach me : Email:- aadithyansnair@gmail.com
+  Author- Aadithyan
 
 <!---
 Aadithyan-S-Nair/Aadithyan-S-Nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
