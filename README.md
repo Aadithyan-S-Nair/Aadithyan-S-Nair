@@ -1,6 +1,5 @@
 - Hi, I’m Aadithyan
-- I’m interested in football, robotics and designing 3D models
-- B.Tech in Mechanical Engineering
+- I do what I like
 - How to reach me : Email:- aadithyansnair@gmail.com
 
 <!---
