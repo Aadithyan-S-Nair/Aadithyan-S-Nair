@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Aadithyan-S-Nair
-- 👀 I’m interested in football, robotics and designing 3D models
-- 🌱 I’m currently learning B.Tech in Mechanical Engineering
-- 💞️ I’m looking to collaborate on innovative projects that includes complex designs. 
-- 📫 How to reach me : Email:- aadithyansnair@gmail.com
+- Hi, I’m Aadithyan
+- I’m interested in football, robotics and designing 3D models
+- B.Tech in Mechanical Engineering
+- How to reach me : Email:- aadithyansnair@gmail.com
 - <br>
   Author- Aadithyan
 
